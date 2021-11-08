@@ -19,12 +19,12 @@ z
   </g>
   <g id="axes_1">
    <g id="line2d_1">
-    <path clip-path="url(#p8ada2bcf2b)" d="M 60.233447 46.4744 
+    <path clip-path="url(#pfe1c3c8080)" d="M 60.233447 46.4744 
 L 87.504047 46.4744 
 " style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:2;"/>
    </g>
    <g id="text_1">
-    <g clip-path="url(#p8ada2bcf2b)">
+    <g clip-path="url(#pfe1c3c8080)">
      <!-- q -->
      <defs>
       <path d="M 60.203125 46 
@@ -67,7 +67,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p8ada2bcf2b">
+  <clipPath id="pfe1c3c8080">
    <rect height="63.6314" width="78.086636" x="13.962511" y="10.1136"/>
   </clipPath>
  </defs>
