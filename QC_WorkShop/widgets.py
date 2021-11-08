@@ -1,4 +1,5 @@
 # type: ignore
+import matplotlib as mpl
 
 import ipywidgets as widgets
 from qiskit import QuantumCircuit, Aer, execute
